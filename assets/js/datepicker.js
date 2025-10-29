@@ -1,0 +1,1 @@
+import Datepicker from 'https://cdn.jsdelivr.net/npm/vanillajs-datepicker@1.2.0/+esm';
